@@ -1,0 +1,47 @@
+/* UI Activity:
+Make a contact form using Bootstrap styles! Begin with the HTML template from the Get Started guide on Bootstrap's website. The contact form should include the following:
+2 text inputs
+two radio buttons
+A text area
+A submit button
+Any other components of your choice (At least one)
+*/
+
+body {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+    background-color: pink;
+    }
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.img-fluid {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin: 0px;
+}
+.btn-btn-primary {
+    background-color: plum;
+    color: white;
+    font-size: 16px;
+    display: inline;
+    text-decoration:none;
+    border-radius: 2px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 20px;
+    
+
+
+}
